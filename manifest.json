@@ -1,0 +1,13 @@
+{
+    "name": "Batch Upload LoRA to Tencent Cloud COS",
+    "version": "1.0.0",
+    "author": "Your Name",
+    "description": "A custom node for uploading LoRA files to Tencent Cloud COS in ComfyUI",
+    "nodes": [
+        {
+            "name": "BatchUploadLoRAtoCOS",
+            "module": "comfyui_bath_upload_lora_node",
+            "class": "BatchUploadLoRAtoCOS"
+        }
+    ]
+}
